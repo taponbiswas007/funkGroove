@@ -141,7 +141,7 @@
  .progress_line .box {
      width: 5%;
      aspect-ratio: 1/1;
-     border-radius: 4px;
+     border-radius: 8px;
      background: #e4e4e4;
  }
 
